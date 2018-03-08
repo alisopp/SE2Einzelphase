@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Palindrom_Tester</string>
+    <string name="app_name">Palindrome Tester</string>
+    <string name="empty_input">Please type in a string</string>
+    <string name="too_short_input">Please type in a string that is longer than 5 characters</string>
+    <string name="is_no_palindrome">IS NO PALINDROME</string>
+    <string name="is_palindrome">IS PALINDROME</string>
+    <string name="is_palindrome_title">Is Palindrome?</string>
+    <string name="btn_check_string">Check String</string>
+    <string name="label_input_string">Input String:</string>
 </resources>
